@@ -40,4 +40,4 @@ The purpose of this analysis is to predict credit risk by evaluating machine lea
 ## Summary:
 
 The models and the results shown above shows good risk in risk analysis. 
-The Easy Ensemble models however is a lot more precise because the accuracy score is 92.4% which is the highest compared to the rest of the models.
+The Easy Ensemble models however is a lot more precise because the accuracy score is 92.54% which is the highest compared to the rest of the models.
